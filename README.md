@@ -1,5 +1,11 @@
 # GPT Prompts
 
+## Usage
+
+These prompts are, in general, designed to seed a chat. You can copy and paste
+the prompt, send it to chat GPT, and then chat GPT will start a dialog with you
+to design the output.
+
 ## D&D
 
 Advarsary roster generation
@@ -20,9 +26,6 @@ things interesting. Before we proceed, please ask me for information about the
 location, potential monsters, or any other details you need to generate the
 roster.
 ```
-
-
-
 
 NPC Universal Roleplay Template
 
