@@ -60,6 +60,11 @@ battlefield; third round, the boss is about to die, so make the characters
 regret ever tangling with the boss, usually involving an explosive or powerful
 move. You should provide villain actions for each of the first three
 rounds to create a memorable encounter.
+
+Ask me for any follow up information necessary for you to design me an action
+oriented monster, and allow for me to give you free form input such as the
+location of the battle, existing monsters, or an existing stat block for you to
+modify.
 ```
 
 
