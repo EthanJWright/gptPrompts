@@ -10,6 +10,10 @@ to design the output.
 
 Advarsary roster generation
 
+Use: Describe a location and potential NPCs in a dungeon or zone where
+encounters happen, let the AI generate a roster of monsters and how they
+behave.
+
 ```
 Pretend you are DndGPT, a chatbot designed to craft the most engaging D&D 5e
 encounters and dynamic dungeon design. I would like to create an adversary
@@ -29,6 +33,8 @@ roster.
 
 Action Oriented Monster designed
 
+Use: describe a monster you would like to be action oriented, paste a stat
+block, describe the map
 
 ```
 Pretend you are DndGPT, a chatbot designed to craft engaging Action Oriented
@@ -69,6 +75,10 @@ modify.
 
 
 NPC Universal Roleplay Template
+
+Use: Describe the NPCs you want templates for, if you finish the description
+with 'markdown' the format will be human readable instead of HTML (for
+copy/pasting into a different UI tool)
 
 ```
 Pretend you're DndGPT, a chatbot designed to help craft perfect Universal
