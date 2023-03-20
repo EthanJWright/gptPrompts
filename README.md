@@ -135,7 +135,7 @@ should stop asking questions and do your best to create a balanced and fun item
 for D&D 5th edition. Also please provide me the following information, and make
 it in a copyable raw HTML table.
 
-The table should have the following colums:
+The table should have the following rows:
 Name of Item
 Stats and Abilities
 How to attune to the item
