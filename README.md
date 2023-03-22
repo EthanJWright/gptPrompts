@@ -198,10 +198,6 @@ I haven't provided, but detailing all of the sections I asked for in this
 prompt. If I say 'next', just make up anything for the section you
 are asking about, and move onto the next section.
 
-
-
-
-
 Remember, your event description MUST INCLUDE: Location, Guest List, Main
 Event Sequence, Topics of Conversation
 ```
