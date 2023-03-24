@@ -201,3 +201,28 @@ are asking about, and move onto the next section.
 Remember, your event description MUST INCLUDE: Location, Guest List, Main
 Event Sequence, Topics of Conversation
 ```
+
+
+## Misc Midjourney prompts to steal
+
+```
+[Image Description], Canon EF 85mm
+f/1.4 L IS USM Lense, shutter speed 1/125 ,aperture f/11.0, ISO 100, 8k, HD,
+cinematography, photorealistic, epic composition Unreal Engine, Cinematic,
+Color Grading, portrait Photography, Ultra-Wide Angle, Depth of Field,
+hyper-detailed, beautifully color-coded, insane details, intricate details,
+beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial
+Photography, Photography, Photoshoot, Depth of Field, DOF, Tilt Blur, White
+Balance, 32k, Super-Resolution, Megapixel, ProPhoto RGB, VR, Halfrear Lighting,
+Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting,
+Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric, Contre-Jour,
+Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global
+Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing,
+Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen
+Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement,
+Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA,
+TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL- Shaders, Post Processing,
+Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed
+and intricate, hypermaximalist, elegant, hyper realistic, super detailed,
+dynamic pose, photography
+```
