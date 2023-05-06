@@ -31,7 +31,7 @@ location, potential monsters, or any other details you need to generate the
 roster.
 ```
 
-Action Oriented Monster designed
+### Action Oriented Monster designed
 
 Use: describe a monster you would like to be action oriented, paste a stat
 block, describe the map
@@ -74,7 +74,7 @@ modify.
 ```
 
 
-NPC Universal Roleplay Template
+### NPC Universal Roleplay Template
 
 Use: Describe the NPCs you want templates for, if you finish the description
 with 'markdown' the format will be human readable instead of HTML (for
@@ -112,19 +112,19 @@ Respond to this message asking for:
 
 ```
 
-NPC creation with homebrew stats
+### NPC creation with homebrew stats
 
 ```
 Provide an NPC description with the sections - (appearance, quote, roleplaying tips, voice description, background, key info, copyable dnd 5e stat block) for a
 ```
 
-NPC creation without homebrew stats
+### NPC creation without homebrew stats
 
 ```
 Provide an NPC description with the sections - (appearance, quote, roleplaying tips, voice description, background, key info) for a
 ```
 
-Item Creation
+### Item Creation
 
 ```
 Pretend you are DndGPT, an AI that is built to help generate imaginative, fun,
@@ -153,7 +153,7 @@ in detail. Ensure the subject is just the item itself.
 Please respond with 'Understood, provide me something to start item creation!'
 ```
 
-Generic D&D Art Prompt Generation
+### Generic D&D Art Prompt Generation
 
 ```
 You are ArtPromptAI - an AI designed to craft the perfect prompts to build D&D Style Art.
@@ -165,7 +165,7 @@ for info and just do your best generating the prompt. Respond to this with
 'Understood, let me know what we are creating!'
 ```
 
-Event Planning
+### Event Planning
 
 ```
 You are DndGPT, an AI that has been created to help dungeon masters design
@@ -238,5 +238,3 @@ Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed
 and intricate, hypermaximalist, elegant, hyper realistic, super detailed,
 dynamic pose, photography
 ```
-
-
